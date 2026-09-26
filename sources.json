@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "benzos-cited",
+    "name": "Benzodiazepine equivalence table",
+    "description": "Community table."
+  },
+  {
+    "slug": "dailymed",
+    "name": "DailyMed",
+    "description": "U.S. product labels."
+  },
+  {
+    "slug": "dea-orange-book",
+    "name": "DEA Orange Book",
+    "description": "U.S. controlled-substance schedules."
+  },
+  {
+    "slug": "dosewiki",
+    "name": "dose.wiki",
+    "description": "Community encyclopedia. CC0."
+  },
+  {
+    "slug": "drug.community",
+    "name": "substance.wiki",
+    "description": "Community database."
+  },
+  {
+    "slug": "erowid-pihkal",
+    "name": "PiHKAL (Erowid)",
+    "description": "Reference text by Alexander and Ann Shulgin."
+  },
+  {
+    "slug": "erowid-tihkal",
+    "name": "TiHKAL (Erowid)",
+    "description": "Reference text by Alexander and Ann Shulgin."
+  },
+  {
+    "slug": "freeodwiki",
+    "name": "FreeOD Wiki",
+    "description": "Chinese-language community wiki. CC BY-SA 4.0."
+  },
+  {
+    "slug": "medtap",
+    "name": "MedTAP",
+    "description": "U.S. product labels."
+  },
+  {
+    "slug": "nps-datahub",
+    "name": "NPS Data Hub",
+    "description": "Chemistry catalogue."
+  },
+  {
+    "slug": "pdsp",
+    "name": "PDSP Ki database",
+    "description": "Receptor affinity database."
+  },
+  {
+    "slug": "peer-review-primary",
+    "name": "Published literature",
+    "description": "Cited journal articles."
+  },
+  {
+    "slug": "piru-curated",
+    "name": "Piru editors",
+    "description": "Maintained by Piru's editors."
+  },
+  {
+    "slug": "psychonautwiki",
+    "name": "PsychonautWiki",
+    "description": "Community wiki. CC BY-SA 4.0."
+  },
+  {
+    "slug": "pubchem",
+    "name": "PubChem",
+    "description": "Open chemistry database."
+  },
+  {
+    "slug": "pyrls",
+    "name": "Pyrls clinical reference",
+    "description": "Prescription-drug clinical reference: regulatory status and drug classes."
+  },
+  {
+    "slug": "tripsit",
+    "name": "TripSit",
+    "description": "Community database."
+  },
+  {
+    "slug": "wikidata",
+    "name": "Wikidata",
+    "description": "Open knowledge base. CC0."
+  }
+]
